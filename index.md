@@ -4,7 +4,7 @@ This is my home page! My name is Steve Choi and I am a student at [Cal State Ful
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/steeevechoi.github.io/
+My GitHub page is http://github.com/steeevechoi
 
 ### CPSC 120
 
