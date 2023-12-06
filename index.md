@@ -18,4 +18,4 @@ My GitHub page is http://github.com/steeevechoi
 
 * [Lab 7](https://github.com/cpsc-fall-2023/cpsc-120-lab-07-steve-and-evan/)
 
-    Lab , part was an interesting one as we had to use two Julian dates and subtract them with each other to find the difference in days from each other. This lab came mind because I remember that the there were a few test where the number of days would come out negative and I thought it was wrong. I remember walking home thinking about how to fix it to become positive.
+    Lab 7, part 1 was an interesting one as we had to use two Julian dates and subtract them with each other to find the difference in days from each other. This lab came mind because I remember that the there were a few test where the number of days would come out negative and I thought it was wrong. I remember walking home thinking about how to fix it to become positive.
